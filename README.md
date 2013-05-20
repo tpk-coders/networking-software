@@ -1,8 +1,8 @@
 ##Ответы на вопросы к экзамену по дисциплине "Программное обеспечение компьютерных сетей"
 
-Все вопросы [здесь](https://github.com/tpk-coders/math-methods/blob/master/questions.md)
+Все вопросы [здесь](https://github.com/tpk-coders/networking-software/blob/master/questions.md).
 
-При написании ответов старайтесь излагаться максимально кратко
+При написании ответов старайтесь излагаться максимально кратко.
 
 ######Keep It Simple, Stupid!
 
